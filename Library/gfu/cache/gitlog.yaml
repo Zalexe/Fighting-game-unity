@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-02-23T12:57:47.201+01:00
+  initializedAtString: 2022-02-23T12:10:46.953+01:00
+  log:
+  - commitID: 68efa86307a1342af942d279909697bb52208155
+    mergeA: 
+    mergeB: 
+    authorName: Carlos Marruedo
+    authorEmail: carlosmarruedo@hotmail.com
+    commitEmail: carlosmarruedo@hotmail.com
+    commitName: Carlos Marruedo
+    summary: Initial commit
+    description: 
+    timeString: 2022-02-23T12:06:44.000+01:00
+    commitTimeString: 2022-02-23T12:06:44.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Carlos\test-fighter\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Carlos\test-fighter\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Carlos\test-fighter\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

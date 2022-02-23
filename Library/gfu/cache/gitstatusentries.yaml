@@ -1,0 +1,1234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-02-23T12:58:17.186+01:00
+  initializedAtString: 2022-02-23T12:09:23.741+01:00
+  entries:
+  - path: Assets\Backgrounds.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds.meta
+    projectPath: Assets\Backgrounds.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG1.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG1.png
+    projectPath: Assets\Backgrounds\BG1.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG1.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG1.png.meta
+    projectPath: Assets\Backgrounds\BG1.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG2.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG2.png
+    projectPath: Assets\Backgrounds\BG2.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG2.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG2.png.meta
+    projectPath: Assets\Backgrounds\BG2.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG3.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG3.png
+    projectPath: Assets\Backgrounds\BG3.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG3.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG3.png.meta
+    projectPath: Assets\Backgrounds\BG3.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG4.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG4.png
+    projectPath: Assets\Backgrounds\BG4.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG4.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG4.png.meta
+    projectPath: Assets\Backgrounds\BG4.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG5.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG5.png
+    projectPath: Assets\Backgrounds\BG5.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG5.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG5.png.meta
+    projectPath: Assets\Backgrounds\BG5.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG6.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG6.png
+    projectPath: Assets\Backgrounds\BG6.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG6.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG6.png.meta
+    projectPath: Assets\Backgrounds\BG6.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG7.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG7.png
+    projectPath: Assets\Backgrounds\BG7.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG7.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG7.png.meta
+    projectPath: Assets\Backgrounds\BG7.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG8.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG8.png
+    projectPath: Assets\Backgrounds\BG8.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\BG8.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\BG8.png.meta
+    projectPath: Assets\Backgrounds\BG8.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\Materials.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\Materials.meta
+    projectPath: Assets\Backgrounds\Materials.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\Materials\BG1.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\Materials\BG1.mat
+    projectPath: Assets\Backgrounds\Materials\BG1.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Backgrounds\Materials\BG1.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Backgrounds\Materials\BG1.mat.meta
+    projectPath: Assets\Backgrounds\Materials\BG1.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets.meta
+    projectPath: Assets\my assets.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters.meta
+    projectPath: Assets\my assets\characters.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back.meta
+    projectPath: Assets\my assets\characters\erika back.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Fight Idle (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Fight
+      Idle (1).fbx
+    projectPath: Assets\my assets\characters\erika back\Fight Idle (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Fight Idle (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Fight
+      Idle (1).fbx.meta
+    projectPath: Assets\my assets\characters\erika back\Fight Idle (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Jumping (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Jumping
+      (1).fbx
+    projectPath: Assets\my assets\characters\erika back\Jumping (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Jumping (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Jumping
+      (1).fbx.meta
+    projectPath: Assets\my assets\characters\erika back\Jumping (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Male Crouch Pose (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Male
+      Crouch Pose (1).fbx
+    projectPath: Assets\my assets\characters\erika back\Male Crouch Pose (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Male Crouch Pose (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Male
+      Crouch Pose (1).fbx.meta
+    projectPath: Assets\my assets\characters\erika back\Male Crouch Pose (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Standing Walk Forward (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Standing
+      Walk Forward (1).fbx
+    projectPath: Assets\my assets\characters\erika back\Standing Walk Forward (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika back\Standing Walk Forward (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika back\Standing
+      Walk Forward (1).fbx.meta
+    projectPath: Assets\my assets\characters\erika back\Standing Walk Forward (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward.meta
+    projectPath: Assets\my assets\characters\erika forward.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm.meta
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_diffuse.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\Erika_Archer_Clothes_diffuse.png
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_diffuse.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_diffuse.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\Erika_Archer_Clothes_diffuse.png.meta
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_diffuse.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_normal.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\Erika_Archer_Clothes_normal.png
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_normal.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_normal.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\Erika_Archer_Clothes_normal.png.meta
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\Erika_Archer_Clothes_normal.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_Body_diffuse.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\FemaleFitA_Body_diffuse.png
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_Body_diffuse.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_Body_diffuse.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\FemaleFitA_Body_diffuse.png.meta
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_Body_diffuse.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_StdNM.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\FemaleFitA_StdNM.png
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_StdNM.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_StdNM.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbm\FemaleFitA_StdNM.png.meta
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbm\FemaleFitA_StdNM.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbx
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Fight Idle.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Fight
+      Idle.fbx.meta
+    projectPath: Assets\my assets\characters\erika forward\Fight Idle.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Jumping.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Jumping.fbx
+    projectPath: Assets\my assets\characters\erika forward\Jumping.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Jumping.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Jumping.fbx.meta
+    projectPath: Assets\my assets\characters\erika forward\Jumping.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Male Crouch Pose.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Male
+      Crouch Pose.fbx
+    projectPath: Assets\my assets\characters\erika forward\Male Crouch Pose.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Male Crouch Pose.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Male
+      Crouch Pose.fbx.meta
+    projectPath: Assets\my assets\characters\erika forward\Male Crouch Pose.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Materials.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Materials.meta
+    projectPath: Assets\my assets\characters\erika forward\Materials.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Materials\Erika_Archer_Clothes_diffuse.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Materials\Erika_Archer_Clothes_diffuse.mat
+    projectPath: Assets\my assets\characters\erika forward\Materials\Erika_Archer_Clothes_diffuse.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Materials\Erika_Archer_Clothes_diffuse.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Materials\Erika_Archer_Clothes_diffuse.mat.meta
+    projectPath: Assets\my assets\characters\erika forward\Materials\Erika_Archer_Clothes_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Materials\FemaleFitA_Body_diffuse.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Materials\FemaleFitA_Body_diffuse.mat
+    projectPath: Assets\my assets\characters\erika forward\Materials\FemaleFitA_Body_diffuse.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Materials\FemaleFitA_Body_diffuse.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Materials\FemaleFitA_Body_diffuse.mat.meta
+    projectPath: Assets\my assets\characters\erika forward\Materials\FemaleFitA_Body_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Standing Walk Forward.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Standing
+      Walk Forward.fbx
+    projectPath: Assets\my assets\characters\erika forward\Standing Walk Forward.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\erika forward\Standing Walk Forward.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\erika forward\Standing
+      Walk Forward.fbx.meta
+    projectPath: Assets\my assets\characters\erika forward\Standing Walk Forward.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back.meta
+    projectPath: Assets\my assets\characters\kachujin back.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Dwarf Walk
+      (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Dwarf
+      Walk (1).fbx
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Dwarf
+      Walk (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Dwarf Walk
+      (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Dwarf
+      Walk (1).fbx.meta
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Dwarf
+      Walk (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Fighting Idle
+      (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Fighting
+      Idle (1).fbx
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Fighting
+      Idle (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Fighting Idle
+      (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Fighting
+      Idle (1).fbx.meta
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Fighting
+      Idle (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Jumping (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Jumping
+      (1).fbx
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Jumping
+      (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Jumping (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Jumping
+      (1).fbx.meta
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Jumping
+      (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Male Crouch
+      Pose (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Male
+      Crouch Pose (1).fbx
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Male
+      Crouch Pose (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Male Crouch
+      Pose (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin back\kachujin_g_rosales@Male
+      Crouch Pose (1).fbx.meta
+    projectPath: Assets\my assets\characters\kachujin back\kachujin_g_rosales@Male
+      Crouch Pose (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward.meta
+    projectPath: Assets\my assets\characters\kachujin forward.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Dwarf Walk.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Dwarf
+      Walk.fbx
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Dwarf
+      Walk.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Dwarf Walk.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Dwarf
+      Walk.fbx.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Dwarf
+      Walk.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_diffuse.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_diffuse.png
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_diffuse.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_diffuse.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_diffuse.png.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_diffuse.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_normal.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_normal.png
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_normal.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_normal.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_normal.png.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_normal.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_specular.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_specular.png
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_specular.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_specular.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_specular.png.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbm\Kachujin_specular.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbx
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbx.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Fighting
+      Idle.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Jumping.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Jumping.fbx
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Jumping.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Jumping.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Jumping.fbx.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Jumping.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Male Crouch
+      Pose.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Male
+      Crouch Pose.fbx
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Male
+      Crouch Pose.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Male Crouch
+      Pose.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Male
+      Crouch Pose.fbx.meta
+    projectPath: Assets\my assets\characters\kachujin forward\kachujin_g_rosales@Male
+      Crouch Pose.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\Materials.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\Materials.meta
+    projectPath: Assets\my assets\characters\kachujin forward\Materials.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\Materials\Kachujin_diffuse.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\Materials\Kachujin_diffuse.mat
+    projectPath: Assets\my assets\characters\kachujin forward\Materials\Kachujin_diffuse.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\Materials\Kachujin_diffuse.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\Materials\Kachujin_diffuse.mat.meta
+    projectPath: Assets\my assets\characters\kachujin forward\Materials\Kachujin_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\Materials\kachujin_g_rosales@Fighting
+      Idle-kachujin_MAT.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\Materials\kachujin_g_rosales@Fighting
+      Idle-kachujin_MAT.mat
+    projectPath: Assets\my assets\characters\kachujin forward\Materials\kachujin_g_rosales@Fighting
+      Idle-kachujin_MAT.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\Materials\kachujin_g_rosales@Fighting
+      Idle-kachujin_MAT.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\Materials\kachujin_g_rosales@Fighting
+      Idle-kachujin_MAT.mat.meta
+    projectPath: Assets\my assets\characters\kachujin forward\Materials\kachujin_g_rosales@Fighting
+      Idle-kachujin_MAT.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\Materials\kachujin_MAT.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\Materials\kachujin_MAT.mat
+    projectPath: Assets\my assets\characters\kachujin forward\Materials\kachujin_MAT.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\kachujin forward\Materials\kachujin_MAT.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\kachujin forward\Materials\kachujin_MAT.mat.meta
+    projectPath: Assets\my assets\characters\kachujin forward\Materials\kachujin_MAT.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard back.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard back.meta
+    projectPath: Assets\my assets\characters\vanguard back.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard back\vanguard_t_choonyung@Idle (1).fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard back\vanguard_t_choonyung@Idle
+      (1).fbx
+    projectPath: Assets\my assets\characters\vanguard back\vanguard_t_choonyung@Idle
+      (1).fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard back\vanguard_t_choonyung@Idle (1).fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard back\vanguard_t_choonyung@Idle
+      (1).fbx.meta
+    projectPath: Assets\my assets\characters\vanguard back\vanguard_t_choonyung@Idle
+      (1).fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward.meta
+    projectPath: Assets\my assets\characters\vanguard forward.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\Materials.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\Materials.meta
+    projectPath: Assets\my assets\characters\vanguard forward\Materials.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\Materials\vanguard_diffuse.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\Materials\vanguard_diffuse.mat
+    projectPath: Assets\my assets\characters\vanguard forward\Materials\vanguard_diffuse.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\Materials\vanguard_diffuse.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\Materials\vanguard_diffuse.mat.meta
+    projectPath: Assets\my assets\characters\vanguard forward\Materials\vanguard_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm.meta
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_diffuse.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_diffuse.png
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_diffuse.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_diffuse.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_diffuse.png.meta
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_diffuse.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_normal.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_normal.png
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_normal.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_normal.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_normal.png.meta
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_normal.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_specular.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_specular.png
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_specular.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_specular.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_specular.png.meta
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbm\vanguard_specular.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbx
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbx
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbx
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbx.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbx.meta
+    projectPath: Assets\my assets\characters\vanguard forward\vanguard_t_choonyung@Idle.fbx.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\shaders.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\shaders.meta
+    projectPath: Assets\my assets\shaders.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\shaders\groundShadows.mat
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\shaders\groundShadows.mat
+    projectPath: Assets\my assets\shaders\groundShadows.mat
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\shaders\groundShadows.mat.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\shaders\groundShadows.mat.meta
+    projectPath: Assets\my assets\shaders\groundShadows.mat.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\shaders\shadows.shader
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\shaders\shadows.shader
+    projectPath: Assets\my assets\shaders\shadows.shader
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\my assets\shaders\shadows.shader.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\my assets\shaders\shadows.shader.meta
+    projectPath: Assets\my assets\shaders\shadows.shader.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Scenes.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Scenes\level1.unity
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Scenes\level1.unity
+    projectPath: Assets\Scenes\level1.unity
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Scenes\level1.unity.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Scenes\level1.unity.meta
+    projectPath: Assets\Scenes\level1.unity.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Scenes\level1_Profiles.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Scenes\level1_Profiles.meta
+    projectPath: Assets\Scenes\level1_Profiles.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Scenes\level1_Profiles\Main Camera Profile.asset
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Scenes\level1_Profiles\Main Camera
+      Profile.asset
+    projectPath: Assets\Scenes\level1_Profiles\Main Camera Profile.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Assets\Scenes\level1_Profiles\Main Camera Profile.asset.meta
+    fullPath: C:\Users\Carlos\test-fighter\Assets\Scenes\level1_Profiles\Main Camera
+      Profile.asset.meta
+    projectPath: Assets\Scenes\level1_Profiles\Main Camera Profile.asset.meta
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Packages\manifest.json
+    fullPath: C:\Users\Carlos\test-fighter\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: Packages\packages-lock.json
+    fullPath: C:\Users\Carlos\test-fighter\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\PackageManagerSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\PackageManagerSettings.asset
+    projectPath: ProjectSettings\PackageManagerSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\VersionControlSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\VersionControlSettings.asset
+    projectPath: ProjectSettings\VersionControlSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: ProjectSettings\XRSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\ProjectSettings\XRSettings.asset
+    projectPath: ProjectSettings\XRSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\Carlos\test-fighter\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 4
+    workTreeStatus: 0
